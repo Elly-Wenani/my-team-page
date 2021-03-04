@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+* {
+  padding: 0%;
+  margin: 0%;
+  box-sizing: border-box;
+}
+
+:root {
+  --font-family-PT: 'PT Serif', serif;
+  --font-family-Mon: 'Montserrat', sans-serif;
+  --font-family-Pop: 'Poppins', sans-serif;
+  --color-black: #000000;
+  --background-color: #fafafa;
+}
+
+body {
+  background-color: var(--background-color);
+}
+
+.mainbody {
+  margin: 110px 10% 0 10%;
+}
+
+.crew-text {
+  display: flex;
+}
+
+.txtleft {
+  width: 50%;
+}
+
+.txtright {
+  width: 50%;
+}
+
+.txtleft h3 {
+  font-family: PT Serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 48px;
+  letter-spacing: -0.045em;
+  color: var(--color-black);
+}
+
+.txtright h4 {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 27px;
+  text-transform: uppercase;
+  color: var(--color-black);
+  padding-bottom: 10px;
+}
+
+.txtright p {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 27px;
+  color: var(--color-black);
+}
+
+/* Media For Responsive */
+
+@media screen and (max-width: 740px) {
+  .mainbody {
+    margin: 71px 5% 0 12px;
+  }
+
+  .crew-text {
+    display: block;
+  }
+
+  .txtleft h3 {
+    padding-bottom: 38px;
+  }
+
+  .txtright h4 {
+    padding-bottom: 10px;
+  }
+
+  .txtleft {
+    width: 100%;
+  }
+
+  .txtright {
+    width: 100%;
+  }
+}
