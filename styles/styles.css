@@ -70,6 +70,16 @@ body {
 
 .crew-image {
   margin-top: 100px;
+  display: flex;
+}
+
+.second-crew-image {
+  margin-top: -60px;
+  display: flex;
+}
+
+.center-img-container {
+  margin: 100px;
 }
 
 .imgitem {
@@ -96,15 +106,17 @@ body {
   font-weight: normal;
   line-height: 16px;
   color: var(--color-black);
+  white-space: nowrap;
 }
 
-.imgleft h4 {
+.username {
   font-family: var(--font-family-Pop);
   font-style: normal;
   font-weight: 600;
   font-size: 18px;
   line-height: 27px;
   color: var(--color-black);
+  margin-top: 15px;
 }
 
 /* Media For Responsive */
