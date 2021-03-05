@@ -79,7 +79,7 @@ body {
 }
 
 .center-img-container {
-  margin: 100px;
+  margin: 10%;
 }
 
 .imgitem {
@@ -88,9 +88,10 @@ body {
 
 .imgitem img {
   /* position: absolute; */
-  width: 238px;
-  left: 478px;
-  top: 244.5px;
+  /* width: 238px; */
+  width: 100%;
+  /* left: 478px; */
+  /* top: 244.5px; */
 }
 
 .imgitem h5 {
@@ -98,7 +99,8 @@ body {
   /* transform: rotate(90deg); */
   writing-mode: vertical-rl;
   transform-origin: 0 0;
-  margin-left: 250px;
+  /* margin-left: 250px; */
+  margin-left: 22%;
   text-transform: uppercase;
   font-size: 12px;
   font-family: var(--font-family-PT);
