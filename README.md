@@ -17,8 +17,7 @@
 </div>
 
 ## Screenshot
-
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![my-team-screenshot](https://user-images.githubusercontent.com/49924816/110112843-50a4bb80-7dc3-11eb-8e01-ee0a4827dd04.png)
 
 ## About the project
 This site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U) was to build My Team Page to complete the given user stories.
