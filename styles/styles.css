@@ -30,6 +30,7 @@ body {
 
 .txtleft {
   width: 50%;
+  margin-right: 30px;
 }
 
 .txtright {
@@ -71,6 +72,7 @@ body {
 .crew-image {
   margin-top: 100px;
   display: flex;
+  width: 100%;
 }
 
 .second-crew-image {
@@ -123,7 +125,7 @@ body {
 
 /* Media For Responsive */
 
-@media screen and (max-width: 740px) {
+@media screen and (max-width: 640px) {
   .mainbody {
     margin: 71px 5% 0 12px;
   }
@@ -147,6 +149,37 @@ body {
   .txtright {
     width: 100%;
   }
+
+  /* Image section */
+
+  .crew-image {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    margin-bottom: 100px;
+  }
+
+  .second-crew-image {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+  }
+
+  .crew-image .img-container {
+    width: 40%;
+  }
+
+  .second-crew-image .img-container {
+    width: 40%;
+  }
+
+  .imgitem h5 {
+    margin-left: 38%;
+  }
+}
+
+/* Responsive media */
+@media screen and (max-width: 740px) {
 }
 
 /* Footer section */
@@ -165,12 +198,12 @@ footer {
 
 .design-by a {
   text-decoration: none;
-  color: #bdbdbd;
+  color: gray;
   font-weight: 900;
   text-decoration: underline;
 }
 
 .design-by p {
-  color: #bdbdbd;
+  color: gray;
   margin-bottom: 24px;
 }
