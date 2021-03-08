@@ -69,6 +69,10 @@ body {
 
 /* Crew image section */
 
+.myhideone {
+  display: none;
+}
+
 .crew-image {
   margin-top: 100px;
   display: flex;
@@ -126,6 +130,22 @@ body {
 /* Media For Responsive */
 
 @media screen and (max-width: 640px) {
+  .myhideone {
+    display: block;
+  }
+
+  .ph-one {
+    margin: 10%;
+  }
+
+  .ph-two {
+    margin: 0%;
+  }
+
+  .ph-three {
+    margin: 10%;
+  }
+
   .mainbody {
     margin: 71px 5% 0 12px;
   }
@@ -160,7 +180,7 @@ body {
   }
 
   .second-crew-image {
-    display: flex;
+    display: none;
     flex-wrap: wrap;
     width: 100%;
   }
