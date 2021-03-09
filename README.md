@@ -19,7 +19,13 @@
 ## Screenshot
 ![my-team-screenshot](https://user-images.githubusercontent.com/49924816/110112843-50a4bb80-7dc3-11eb-8e01-ee0a4827dd04.png)
 
-![my-team-phone-screenshot](https://user-images.githubusercontent.com/49924816/110452560-5c032a00-80d6-11eb-8f68-fc76635e97f4.png)
+<div width="45%">
+   ![my-team-phone-screenshot](https://user-images.githubusercontent.com/49924816/110452560-5c032a00-80d6-11eb-8f68-fc76635e97f4.png)
+</div>
+
+<div width="45%">
+   ![my-team-phone-screenshot](https://user-images.githubusercontent.com/49924816/110452560-5c032a00-80d6-11eb-8f68-fc76635e97f4.png)
+</div>
 
 
 ## About the project
