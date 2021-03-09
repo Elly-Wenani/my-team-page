@@ -19,14 +19,7 @@
 ## Screenshot
 ![my-team-screenshot](https://user-images.githubusercontent.com/49924816/110112843-50a4bb80-7dc3-11eb-8e01-ee0a4827dd04.png)
 
-<div width="45%">
-   ![my-team-phone-screenshot](https://user-images.githubusercontent.com/49924816/110452560-5c032a00-80d6-11eb-8f68-fc76635e97f4.png)
-</div>
-
-<div width="45%">
-   ![my-team-phone-screenshot](https://user-images.githubusercontent.com/49924816/110452560-5c032a00-80d6-11eb-8f68-fc76635e97f4.png)
-</div>
-
+![my-team-phone-screenshot](https://user-images.githubusercontent.com/49924816/110452560-5c032a00-80d6-11eb-8f68-fc76635e97f4.png)
 
 ## About the project
 This site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U) was to build My Team Page to complete the given user stories.
